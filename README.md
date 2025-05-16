@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm GOKUL KUMAR SANT</h1>
+<h3 align="center">A passionate frontend devWelcome to my GitHub profile! I'm an enthusiastic developer from Ambala City with a passion for building full-stack applications and learning cutting-edge technologies. I enjoy creating practical and impactful solutions through clean and efficient code. ## 🚀 About Me - 🔭 I’m currently working on: MERN stack projects, real-time apps using Socket.IO, and AI chatbot integration. - 🌱 I’m currently learning: Cyber Security, Cloud Deployment (AWS), and Advanced JavaScript. - 👯 I’m looking to collaborate on: Full-stack web apps, open-source tools, and freelance UI/UX projects. - 💬 Ask me about: React, Node.js, MongoDB, Figma Design, Socket.IO.eloper from India</h3>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdqcDN4Z201MWdhbGQxbjBvM214d2h5d3YyZ2prZWZyZDFhZGEwdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CrFLL3CnRpw5ddlBMm/giphy.webp" align="left" width="200" alt="Animated coding GIF" />
 
-<!--
-**gokuls-bit/gokuls-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gokuls-bit&label=Profile%20views&color=0e75b6&style=flat" alt="gokuls-bit" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokuls-bit" alt="gokuls-bit" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <a href="https://twitter.com/gokulsantamb" target="blank"><img src="https://img.shields.io/twitter/follow/gokulsantamb?logo=twitter&style=for-the-badge" alt="gokulsantamb" /></a> </p>
+
+- 🔭 I’m currently working on **legal chat box and some more projects **
+
+- 🌱 I’m currently learning **- AWS & Cloud Deployment - Cyber Security (SWAYAM) - Tailwind CSS and Next.js**
+
+- 👨‍💻 All of my projects are available at [🌐 [My GitHub Profile](https://github.com/gokuls-bit)](🌐 [My GitHub Profile](https://github.com/gokuls-bit))
+
+- 📝 I regularly write articles on [https://www.blogger.com/blog/posts/4543191805551320646?hl=en](https://www.blogger.com/blog/posts/4543191805551320646?hl=en)
+
+- 💬 Ask me about **`React`,'Node', `GSAP`, `Socket.IO`, `MongoDB`, `UI Design`**
+
+- 📫 How to reach me **gokulsant684@gmail.com 📧 gokulkumarsant2540@gmail.com 💼 [LinkedIn](https://www.linkedin.com/in/gokul-kumar-sant-581145205/)**
+
+- 📄 Know about my experiences [https://acrobat.adobe.com/id/urn:aaid:sc:AP:6ae756a3-126a-465e-adf5-d9ac3e87ca5b](https://acrobat.adobe.com/id/urn:aaid:sc:AP:6ae756a3-126a-465e-adf5-d9ac3e87ca5b)
+
+- ⚡ Fun fact **I love mixing animation magic (GSAP) with clean UI to make web apps feel alive ✨**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/gokul kumar sant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gokul kumar sant" height="30" width="40" /></a>
+<a href="https://twitter.com/gokulsantamb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gokulsantamb" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gokul kumar sant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gokul kumar sant" height="30" width="40" /></a>
+<a href="https://instagram.com/gokulsantt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gokulsantt" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/gokul sant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gokul sant" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/gokul_kumar_sant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gokul_kumar_sant" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokuls-bit&show_icons=true&locale=en&layout=compact" alt="gokuls-bit" /></p>
