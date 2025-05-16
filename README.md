@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **legal chat box and some more projects **
 
-- 🌱 I’m currently learning **- AWS & Cloud Deployment - Cyber Security (SWAYAM) - Tailwind CSS and Next.js**
+- 🌱 I’m currently learning **- AWS & Cloud Deployment - Cyber Security - Tailwind CSS and Next.js**
 
 - 👨‍💻 All of my projects are available at [🌐 [My GitHub Profile](https://github.com/gokuls-bit)](🌐 [My GitHub Profile](https://github.com/gokuls-bit))
 
