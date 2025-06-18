@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm GOKUL KUMAR SANT</h1>
+<h1 align="center">Hi 👋, I'm GOKUL KUMAR SANT </h1>
 <h3 align="center">A passionate frontend devWelcome to my GitHub profile! I'm an enthusiastic developer from Ambala City with a passion for building full-stack applications and learning cutting-edge technologies. I enjoy creating practical and impactful solutions through clean and efficient code. 
                                                                    🚀 About Me - 🔭 I’m currently working on: MERN stack projects, real-time apps using Socket.IO, and AI chatbot integration. - 🌱 I’m currently learning: Cyber Security, Cloud Deployment (AWS), and Advanced JavaScript. - 👯 I’m looking to collaborate on: Full-stack web apps, open-source tools, and freelance UI/UX projects. - 💬 Ask me about: React, Node.js, MongoDB, Figma Design, Socket.IO.eloper from India</h3>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdqcDN4Z201MWdhbGQxbjBvM214d2h5d3YyZ2prZWZyZDFhZGEwdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CrFLL3CnRpw5ddlBMm/giphy.webp" align="left" width="200" alt="Animated coding GIF" />
