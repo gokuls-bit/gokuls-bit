@@ -7,43 +7,48 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🔭 **Currently Working On:**  
-  - Real-time MERN Stack Projects  
-  - Legal Help AI Chatbot (Socket.IO + AI Integration)  
-  - Interactive UIs using GSAP and Tailwind CSS
+I'm **Gokul Kumar Sant**, a passionate **Full-Stack Developer** with a keen eye for **UI/UX design** and a strong interest in **cybersecurity**. Based in Ambala City, India, I enjoy building robust, user-friendly web applications and constantly exploring new technologies.
 
-- 🌱 **Learning & Exploring:**  
-  - Cloud Deployment (AWS, Vercel)  
-  - Advanced Cyber Security & Networking  
-  - Next.js and Web Performance Optimization
+- 🔭 **Currently Building:**
+    - **Real-time MERN Stack Projects:** Developing dynamic web applications using the MongoDB, Express.js, React, and Node.js stack.
+    - **Legal Help AI Chatbot:** Integrating Socket.IO and AI to create an intelligent and interactive legal assistance chatbot.
+    - **Interactive UIs:** Crafting engaging user experiences with the power of **GSAP** for animations and **Tailwind CSS** for efficient styling.
 
-- 🤝 **Open to Collaborate On:**  
-  - Scalable Web Applications  
-  - Open Source Tools  
-  - Freelance UI/UX & Figma Projects
+- 🌱 **Continuously Learning:**
+    - **Cloud Deployment:** Deepening my understanding of deploying applications on platforms like **AWS** and **Vercel**.
+    - **Advanced Cyber Security & Networking:** Expanding my knowledge to build more secure and resilient systems.
+    - **Next.js & Web Performance Optimization:** Mastering Next.js for server-side rendering and optimizing web application performance.
 
-- 💬 **Ask Me About:**  
-  `React`, `Node.js`, `MongoDB`, `Figma`, `GSAP`, `Socket.IO`, `Next.js`, `PostgreSQL`, `TailwindCSS`
+- 🤝 **Open to Collaboration:** I'm always looking for exciting opportunities! Let's connect if you're working on:
+    - **Scalable Web Applications**
+    - **Open Source Tools**
+    - **Freelance UI/UX & Figma Projects**
 
-- 📫 **Reach Me At:**  
-  - 📧 gokulsant684@gmail.com  
-  - 📧 gokulkumarsant2540@gmail.com  
-  - 💼 [LinkedIn](https://www.linkedin.com/in/gokul-kumar-sant-581145205/)
+- 💬 **Ask Me About:**
+    `React` | `Node.js` | `MongoDB` | `Figma` | `GSAP` | `Socket.IO` | `Next.js` | `PostgreSQL` | `TailwindCSS`
 
-- 📝 **Blogs & Writings:**  
-  [My Blogger Articles](https://www.blogger.com/blog/posts/4543191805551320646?hl=en)
-
-- 📄 **Resume & Experience:**  
-  [View Resume (Adobe)](https://acrobat.adobe.com/id/urn:aaid:sc:AP:6ae756a3-126a-465e-adf5-d9ac3e87ca5b)
-
-- ⚡ **Fun Fact:**  
-  I blend design and code with motion — making web apps **feel** alive with **GSAP animation** ✨
+- ⚡ **Fun Fact:** I love to infuse life into web applications by blending design and code with motion — making them **feel** alive with **GSAP animation** ✨
 
 ---
 
-### 📈 GitHub Stats & Trophies
+## 📫 Get in Touch
+
+- 📧 **Primary Email:** gokulsant684@gmail.com
+- 📧 **Secondary Email:** gokulkumarsant2540@gmail.com
+- 💼 **LinkedIn:** [Gokul Kumar Sant](https://www.linkedin.com/in/gokul-kumar-sant-581145205/)
+
+---
+
+## 📝 My Work & Presence
+
+- 📄 **Resume:** [View My Resume (Adobe)](https://acrobat.adobe.com/id/urn:aaid:sc:AP:6ae756a3-126a-465e-adf5-d9ac3e87ca5b)
+- ✍️ **Blog:** [Explore My Blogger Articles](https://www.blogger.com/blog/posts/4543191805551320646?hl=en)
+
+---
+
+## 📈 GitHub Stats & Trophies
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=gokuls-bit&label=Profile%20views&color=0e75b6&style=flat" alt="gokuls-bit" />
@@ -57,20 +62,20 @@
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://dev.to/gokulkumarsant" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Dev.to" height="30" width="40" /></a>
-  <a href="https://twitter.com/gokulsantamb" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/gokul-kumar-sant" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://instagram.com/gokulsantt" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/gokulsant" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/gokul_kumar_sant" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="LeetCode" height="30" width="40" /></a>
+  <a href="https://dev.to/gokulkumarsant" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Dev.to" height="30" width="40" /></a>
+  <a href="https://twitter.com/gokulsantamb" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/gokul-kumar-sant" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://instagram.com/gokulsantt" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/gokulsant" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/gokul_kumar_sant" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Languages & Tools
 
 <p align="left">
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
