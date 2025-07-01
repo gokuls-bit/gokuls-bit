@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm GOKUL KUMAR SANT</h1>
-<h3 align="center">💻 Full-Stack Developer | UI/UX Enthusiast | Cybersecurity Learner | Based in Ambala City, India</h3>
+<h3 align="center">💻 Full-Stack Developer | UI/UX Enthusiast | Cybersecurity Learner | Based in Ambala City,  India</h3>
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdqcDN4Z201MWdhbGQxbjBvM214d2h5d3YyZ2prZWZyZDFhZGEwdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CrFLL3CnRpw5ddlBMm/giphy.webp" width="200" alt="Animated coding GIF" />
