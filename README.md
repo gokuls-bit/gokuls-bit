@@ -90,7 +90,7 @@ I'm **Gokul Kumar Sant**, a passionate **Full-Stack Developer** with a strong fo
   <a href="https://www.youtube.com/c/gokulsant" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="30" width="40" /></a>
 </p>
 
----
+--- 
 
 ### Reach out:
 - 📧 gokulsant684@gmail.com
