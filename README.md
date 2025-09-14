@@ -1,4 +1,3 @@
-
 <h1 align="center">👋 Hi, I'm Gokul Kumar Sant</h1>
 
 <h3 align="center">💻 Full-Stack Developer | 🎨 UI/UX Enthusiast | 🔒 Cybersecurity Explorer | 🌍 Based in Ambala City, India</h3>
