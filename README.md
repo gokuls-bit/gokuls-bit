@@ -7,7 +7,7 @@
 
 ---
 
-## 👨‍💻 About Me  
+## 👨‍💻 About Me   
 I'm **Gokul Kumar Sant**, a passionate **Full-Stack Developer** who loves building **scalable, aesthetic, and secure web solutions**.  
 I combine **design thinking**, **modern tech stacks**, and **cybersecurity awareness** to deliver experiences that are **both visually appealing and performance-driven**.  
 💡 Currently exploring intersections of **AI, Cybersecurity, and Cloud** to create the next generation of smart web ecosystems.
