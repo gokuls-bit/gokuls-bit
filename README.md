@@ -121,7 +121,7 @@ const gokul = {
 ## 🌱 Currently Learning
 
 ```yaml
-Focus Areas:
+Focus Areas: 
   - Advanced Cybersecurity & Network Security
   - Next.js Performance Optimization (SSR, SSG, ISR)
   - Cloud DevOps (Docker, Kubernetes, CI/CD)
