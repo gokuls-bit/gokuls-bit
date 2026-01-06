@@ -4,7 +4,7 @@
 
 ### Full-Stack Engineer • AI/ML Innovator • Cybersecurity Advocate
 
-*Building intelligent, secure, and scalable digital experiences*
+*Building intelligent, secure, and scalable digital experiences* 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokul-kumar-sant-581145205/)
