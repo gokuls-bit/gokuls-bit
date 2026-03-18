@@ -1,10 +1,12 @@
- <div align="center">
-  
-# hi, Gokul Kumar Sant 
-   
-### Full-Stack Engineer • AI/ML Innovator • Cybersecurity Advocate 
-  
-*Building intelligent, secure, and scalable digital experiences*  
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+
+# 👋 Gokul Kumar Sant
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Full-Stack+Engineer+%F0%9F%9A%80;AI%2FML+Innovator+%F0%9F%A4%96;Cybersecurity+Advocate+%F0%9F%94%90" alt="Typing SVG" />
+
+*Building intelligent, secure, and scalable digital experiences*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokul-kumar-sant-581145205/)
@@ -13,74 +15,63 @@
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/gokulkumarsant)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokulsant684@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=gokuls-bit&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=gokuls-bit&color=38bdf8&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/gokuls-bit?label=Followers&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/gokuls-bit?label=Total%20Stars&style=social)
 
 </div>
 
 ---
 
-## 🎯 Professional Summary
+## 🧬 Developer Profile
 
 ```typescript
-const developerProfile: Profile = {
-  name: "Gokul Kumar Sant",
-  location: "Ambala City, India 🇮🇳",
-  role: "Full-Stack Engineer",
-  
+const developer: Profile = {
+  name:     "Gokul Kumar Sant",
+  location: "Ambala City, Haryana, India 🇮🇳",
+  role:     "Full-Stack Engineer & AI Systems Builder",
+
   expertise: {
-    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-    backend: ["Node.js", "Express", "Python", "RESTful APIs"],
-    database: ["MongoDB", "PostgreSQL", "Firebase", "Redis"],
-    cloud: ["AWS", "Vercel", "Heroku", "Docker"],
-    ai_ml: ["TensorFlow", "LangChain", "OpenAI API", "RAG Systems"]
+    frontend:  ["React", "Next.js", "TypeScript", "Tailwind CSS", "Three.js", "GSAP"],
+    backend:   ["Node.js", "Express", "Python", "FastAPI", "GraphQL", "Socket.io"],
+    database:  ["MongoDB", "PostgreSQL", "Redis", "Firebase", "Prisma", "MySQL"],
+    cloud:     ["AWS", "Docker", "Kubernetes", "Vercel", "GitHub Actions", "Nginx"],
+    ai_ml:     ["LangChain", "OpenAI API", "RAG Systems", "TensorFlow", "PyTorch"],
+    security:  ["OWASP", "JWT/OAuth", "Penetration Testing", "Zero-Trust Architecture"],
   },
-  
-  specializations: [
-    "🚀 Enterprise-grade web applications",
-    "🤖 AI/ML integration & LLM workflows",
-    "🔐 Security-first architecture",
-    "⚡ Performance optimization",
-    "🎨 Pixel-perfect UI/UX implementation"
+
+  currentlyBuilding: [
+    "⚖️  AI Legal Assistant  — LLMs + Indian legal database + RAG",
+    "⚡  Real-Time Collab Suite — WebSockets + Redis + WebRTC",
+    "🔐  SecureAuth Framework  — Zero-trust microservice + 2FA + biometrics",
+    "📊  DevAnalytics Dashboard — Commit heatmaps + PR velocity + team insights",
   ],
-  
-  currentFocus: "Building AI-powered legal tech & real-time collaborative platforms",
-  availability: "Open to freelance, remote opportunities & technical partnerships"
+
+  philosophy:    "Ship fast. Secure deeply. Iterate boldly.",
+  availability:  "✅ Open to Freelance · Remote · Collaborations · Open Source",
 };
 ```
 
+---
+
+## 🎖️ Recognition & Leadership
+
 <div align="center">
 
-### 🎖️ Recognition & Leadership
+| 🏆 Achievement | 🏷️ Role | 📌 Details |
+|:---|:---|:---|
+| **Bebo Ambassador 2025** | AI & Web Dev Representative | Community advocate for AI/ML & modern web development |
+| **Hackathon Team Lead** | Full-Stack AI Solution Architect | Led cross-functional teams to build & ship under pressure |
+| **AICTE EduSkills** | AI/ML Engineering Cohort 14 | Completed intensive program on applied machine learning |
+| **Microsoft AI Skills Challenge** | Participant & Completer | 2025 challenge on Azure AI & Copilot ecosystem |
 
 </div>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/trophy.png" width="60"/>
-<br><strong>Bebo Ambassador 2025</strong>
-<br><sub>AI & Web Dev Representative</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/code.png" width="60"/>
-<br><strong>Hackathon Team Lead</strong>
-<br><sub>Full-Stack AI Solution Architect</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/graduation-cap.png" width="60"/>
-<br><strong>AICTE EduSkills</strong>
-<br><sub>AI/ML Engineering Cohort 14</sub>
-</td>
-</tr>
-</table>
 
 ---
 
 ## 🛠️ Technology Arsenal
 
-<details open>
-<summary><b>🎨 Frontend Development</b></summary>
-<br>
+### 🎨 Frontend Development
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -91,17 +82,11 @@ const developerProfile: Profile = {
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-
-**Animation & Graphics**  
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
-</details>
-
-<details>
-<summary><b>⚙️ Backend & APIs</b></summary>
-<br>
+### ⚙️ Backend & APIs
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -111,11 +96,7 @@ const developerProfile: Profile = {
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-</details>
-
-<details>
-<summary><b>🗄️ Database & State Management</b></summary>
-<br>
+### 🗄️ Database & State Management
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -124,11 +105,7 @@ const developerProfile: Profile = {
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-</details>
-
-<details>
-<summary><b>☁️ Cloud & DevOps</b></summary>
-<br>
+### ☁️ Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -136,12 +113,9 @@ const developerProfile: Profile = {
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-</details>
-
-<details>
-<summary><b>🤖 AI/ML & Data Science</b></summary>
-<br>
+### 🤖 AI / ML & Data Science
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -151,11 +125,7 @@ const developerProfile: Profile = {
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 
-</details>
-
-<details>
-<summary><b>🔧 Tools & Platforms</b></summary>
-<br>
+### 🔧 Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -164,55 +134,24 @@ const developerProfile: Profile = {
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
-</details>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">🤖 AI Legal Assistant</h3>
 <div align="center">
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/View_Project-4CAF50?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<p><strong>AI, NLP, LangChain, React</strong> - Intelligent legal consultation platform integrating LLMs with Indian legal databases for real-time case analysis and document generation.</p>
+
+| Project | Stack | Description |
+|:--------|:------|:------------|
+| **⚖️ AI Legal Assistant** | `LangChain` `RAG` `React` `FastAPI` | Intelligent legal consultation platform integrating LLMs with Indian legal databases for real-time case analysis, precedent lookup, and smart document generation |
+| **⚡ Real-Time Collab Suite** | `MERN` `WebSocket` `Redis` `WebRTC` | Enterprise collaboration platform with live editing, operational transformation, video conferencing, and conflict-free synchronized workspaces |
+| **🌐 3D Portfolio Experience** | `Three.js` `GSAP` `Next.js` `GLSL` | Immersive 3D developer portfolio with custom GLSL shaders, physics-based animations, and scroll-linked interactive storytelling |
+| **🔐 SecureAuth Framework** | `Node.js` `JWT` `OAuth 2.0` `2FA` | Zero-trust authentication microservice with biometric support, TOTP 2FA, refresh token rotation, and enterprise-grade security protocols |
+| **📊 DevAnalytics Dashboard** | `Next.js` `D3.js` `PostgreSQL` `Prisma` | Real-time developer productivity platform with commit heatmaps, PR velocity tracking, code quality scores, and team-wide insights |
+| **🤖 LLM Workflow Automator** | `LangChain` `Python` `Vector DB` `Agents` | Multi-agent LLM pipeline orchestrator for automating document processing, web research, and report generation using tool-calling and RAG |
+
 </div>
-</td>
-<td width="50%">
-<h3 align="center">⚡ Real-Time Collab Suite</h3>
-<div align="center">
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/View_Project-2196F3?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<p><strong>MERN, WebSocket, Redis</strong> - Enterprise collaboration platform with live editing, video conferencing, and synchronized workspaces.</p>
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3 align="center">🎨 3D Portfolio Experience</h3>
-<div align="center">
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<p><strong>Three.js, GSAP, Next.js</strong> - Immersive 3D portfolio with physics-based animations, shader effects, and interactive storytelling.</p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">🔐 SecureAuth Framework</h3>
-<div align="center">
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/View_Project-9C27B0?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<p><strong>Node.js, JWT, OAuth</strong> - Robust authentication system with 2FA, biometric support, and enterprise-grade security protocols.</p>
-</div>
-</td>
-</tr>
-</table>
 
 <div align="center">
 
@@ -225,109 +164,118 @@ const developerProfile: Profile = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gokuls-bit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=70A5FD&icon_color=BF91F3&text_color=38BDAE&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gokuls-bit&theme=tokyonight&hide_border=true&background=1A1B27&stroke=70A5FD&ring=BF91F3&fire=FF6E76&currStreakLabel=38BDAE" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gokuls-bit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=38BDF8&icon_color=A78BFA&text_color=8B9EB4&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gokuls-bit&theme=tokyonight&hide_border=true&background=1A1B27&stroke=38BDF8&ring=A78BFA&fire=F472B6&currStreakLabel=38BDF8" />
+
 </div>
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokuls-bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=70A5FD&text_color=38BDAE&langs_count=10" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=gokuls-bit&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=70A5FD&line=BF91F3&point=FF6E76" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokuls-bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=38BDF8&text_color=8B9EB4&langs_count=10" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=gokuls-bit&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=38BDF8&line=A78BFA&point=F472B6" />
+
 </div>
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gokuls-bit&theme=tokyonight" width="98%"/>
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gokuls-bit&theme=tokyonight" />
+
 </div>
 
 ---
 
-## 🎓 Certifications & Learning
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-| Certification | Issuer | Status |
-|:-------------|:-------|:------:|
-| Google AI Essentials | Google | ✅ |
-| AWS Cloud Practitioner Essentials | Amazon Web Services | ✅ |
-| Cyber Security Tools & Techniques | SWAYAM | ✅ |
-| Technology Virtual Experience | Deloitte (Forage) | ✅ |
-| Microsoft AI Skills Challenge 2025 | Microsoft | ✅ |
+[![trophy](https://github-profile-trophy.vercel.app/?username=gokuls-bit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
-### 🌱 Current Learning Path
+---
+
+## 🎓 Certifications & Credentials
+
+<div align="center">
+
+| 📜 Certification | 🏢 Issuer | 📅 Year | ✅ Status |
+|:----------------|:---------|:--------|:---------|
+| Google AI Essentials | Google | 2025 | ✅ Completed |
+| AWS Cloud Practitioner Essentials | Amazon Web Services | 2025 | ✅ Completed |
+| Cyber Security Tools & Techniques | SWAYAM / NPTEL | 2024 | ✅ Completed |
+| Technology Virtual Experience | Deloitte (Forage) | 2024 | ✅ Completed |
+| Microsoft AI Skills Challenge 2025 | Microsoft | 2025 | ✅ Completed |
+| AI/ML Engineering Program | AICTE EduSkills — Cohort 14 | 2025 | ✅ Completed |
+
+</div>
+
+---
+
+## 🌱 2025 Learning Path
 
 ```yaml
-2025 Focus Areas:
-  Security:
-    - Advanced Network Penetration Testing
-    - OWASP Top 10 Vulnerabilities
-    - Secure Code Review & SAST/DAST
-  
-  Performance:
-    - Next.js 15 Performance Patterns
-    - Edge Computing & CDN Strategies
-    - Database Query Optimization
-  
-  Cloud & DevOps:
-    - Kubernetes Orchestration
-    - CI/CD Pipeline Automation
-    - Infrastructure as Code (Terraform)
-  
-  AI/ML:
-    - Fine-tuning LLMs
-    - RAG Architecture Patterns
-    - Vector Database Optimization
+Security:
+  - Advanced Network Penetration Testing
+  - OWASP Top 10 Deep Dive & Remediation
+  - Secure Code Review · SAST / DAST Tooling
+  - Bug Bounty Methodology & Reporting
+
+Performance:
+  - Next.js 15 Performance Patterns & PPR
+  - Edge Computing & CDN Optimization Strategies
+  - Database Query Optimization & Indexing
+  - Core Web Vitals & Lighthouse Mastery
+
+Cloud & DevOps:
+  - Kubernetes Orchestration at Scale
+  - CI/CD Pipeline Automation (GitHub Actions · ArgoCD)
+  - Infrastructure as Code — Terraform
+  - AWS Solutions Architect Associate Exam Prep
+
+AI / ML:
+  - Fine-tuning LLMs with RLHF & LoRA
+  - Advanced RAG Architecture Patterns
+  - Vector Database Optimization (Pinecone · Weaviate)
+  - Multi-Agent AI Systems Design & Orchestration
 ```
 
 ---
 
 ## 💼 Professional Services
 
-<table align="center">
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/web.png" width="80"/>
-<br><strong>Web Development</strong>
-<br><sub>Full-stack solutions from MVP to enterprise scale</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="80"/>
-<br><strong>AI Integration</strong>
-<br><sub>LLM workflows, chatbots & intelligent automation</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/security-checked.png" width="80"/>
-<br><strong>Security Audit</strong>
-<br><sub>Vulnerability assessment & penetration testing</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/design.png" width="80"/>
-<br><strong>UI/UX Design</strong>
-<br><sub>User-centered design from concept to implementation</sub>
-</td>
-</tr>
-</table>
+<div align="center">
+
+| 🌐 Web Development | 🤖 AI Integration | 🔐 Security Audit | 🎨 UI/UX Design |
+|:---|:---|:---|:---|
+| Full-stack solutions from MVP to enterprise scale with clean, maintainable, tested code | LLM workflows, RAG pipelines, intelligent chatbots & process automation | Vulnerability assessment, penetration testing & security architecture review | User-centered design: wireframes to pixel-perfect, accessible implementation |
+
+</div>
 
 ---
 
-## 🤝 Let's Build Together
+## 🤝 Open To Opportunities
 
-I'm actively seeking opportunities in:
+I'm actively seeking roles and collaborations in:
 
-- 🏢 **Enterprise Software Development** — Scalable SaaS platforms, microservices architecture
+- 🏢 **Enterprise Software Development** — Scalable SaaS platforms, microservices & distributed systems
 - 🔐 **Security Engineering** — Application security, ethical hacking, compliance automation
-- 🤖 **AI Product Development** — LLM integration, conversational AI, intelligent workflows
-- 🎨 **Design Systems** — Component libraries, design tokens, accessibility standards
+- 🤖 **AI Product Development** — LLM integration, conversational AI & intelligent agent workflows
+- 🎨 **Design Systems** — Component libraries, design tokens, accessibility-first standards
+- 🚀 **Startups & Freelance** — MVPs, early-stage technical leadership, co-founding
 - 🌍 **Open Source** — Developer tools, educational resources, community-driven projects
+
+---
+
+## 📬 Let's Connect & Build Together
 
 <div align="center">
 
-### 📬 Connect With Me
-
 [![Email](https://img.shields.io/badge/Email-gokulsant684@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokulsant684@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-Download_PDF-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://acrobat.adobe.com/id/urn:aaid:sc:AP:6ae756a3-126a-465e-adf5-d9ac3e87ca5b)
-[![Blog](https://img.shields.io/badge/Blog-Read_Articles-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.blogger.com/blog/posts/4543191805551320646?hl=en)
-[![Calendar](https://img.shields.io/badge/Schedule-Book_a_Call-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)](https://calendly.com/your-link)
+[![Resume](https://img.shields.io/badge/Resume-Download_PDF-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://acrobat.adobe.com/id/urn:aaid:sc:AP:6ae756a3-126a-465e-adf5-d9ac3e87ca5b)
+[![Blog](https://img.shields.io/badge/Blog-Read_Articles-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/gokulkumarsant)
+[![Calendar](https://img.shields.io/badge/Schedule-Book_a_Call-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly.com/your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokul-kumar-sant-581145205/)
 
 </div>
 
@@ -341,17 +289,16 @@ I'm actively seeking opportunities in:
 
 ---
 
-### 🎯 "Code with purpose. Build with passion. Ship with confidence."
+> ### *"Code with purpose. Build with passion. Ship with confidence."*
 
-<sub>⭐ Star repositories • 🍴 Fork and experiment • 💬 Collaborate and grow</sub>
-
-[![GitHub Followers](https://img.shields.io/github/followers/gokuls-bit?label=Followers&style=social)](https://github.com/gokuls-bit)
-[![GitHub Stars](https://img.shields.io/github/stars/gokuls-bit?label=Stars&style=social)](https://github.com/gokuls-bit)
-
-**Open to:** Freelance Projects • Remote Opportunities • Technical Consulting • Open Source Collaboration
+**Open to:** `Freelance` · `Remote` · `Technical Consulting` · `Open Source Collaboration`
 
 ---
 
-<sub>Last Updated: January 2026 • Built with ❤️ and Markdown</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,50:38BDF8,100:A78BFA&height=100&section=footer&text=&animation=fadeIn" width="100%"/>
+
+<sub>⭐ Star repositories you find useful &nbsp;•&nbsp; 🍴 Fork and experiment &nbsp;•&nbsp; 💬 Reach out to collaborate</sub>
+
+<sub>Last Updated: March 2026 &nbsp;•&nbsp; Built with ❤️ from Ambala City, India 🇮🇳</sub>
 
 </div>
