@@ -1,6 +1,8 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+  
 # 👋 Gokul Kumar Sant
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Full-Stack+Engineer+%F0%9F%9A%80;AI%2FML+Innovator+%F0%9F%A4%96;Cybersecurity+Advocate+%F0%9F%94%90" alt="Typing SVG" />
 
 *Building intelligent, secure, and scalable digital experiences*
